@@ -1,3 +1,7 @@
 User-agent: *
+Disallow: /auth
+Disallow: /console
+Disallow: /tools
+Disallow: /search
 Allow: /
 Sitemap: https://hahastory.netlify.com/sitemap.xml
